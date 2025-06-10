@@ -1,0 +1,1 @@
+This is an encyclopedia of films, for each letter of the Russian alphabet so far, there may be an English alphabet in the future, there are not very many films presented in this project, but their list may be replenished))
